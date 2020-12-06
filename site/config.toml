@@ -1,4 +1,4 @@
-baseurl = "https://hugo.hovd.be"
+baseurl = "https://hugo.hovd.be/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
